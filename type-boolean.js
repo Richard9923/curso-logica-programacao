@@ -4,7 +4,6 @@
 
 const primeiroNum = 5;
 const segundoNum = 10;
-const senha = 'batat123';
 
 // console.log(primeiroNum === segundoNum);
 
